@@ -1,16 +1,43 @@
-## Hi there 👋
+#mitu
 
-<!--
-**MinhThu100200/MinhThu100200** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![](https://komarev.com/ghpvc/?username=MinhThu100200)
 
-Here are some ideas to get you started:
+<div align="center">
+  
+# Hi there 👋, I'm Thu
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 **Mobile Developer**  
+
+![Header Animation](https://capsule-render.vercel.app/api?type=rect&color=0:2563EB,100:111827&height=200&section=header&text=🚀%20Welcome%20to%20my%20GitHub!%20🚀&fontSize=35&fontColor=ffffff&animation=fadeIn)
+
+</div>
+
+---
+
+## 🚀 Tech Stack
+
+<div align="center">
+
+[![Languages](https://skillicons.dev/icons?i=ts,js,kotlin,swift,html,css,py)](https://skillicons.dev)
+
+</div>
+
+<div align="center">
+
+[![Frontend Technologies](https://skillicons.dev/icons?i=androidstudio,apple,react,redux,graphql,docker,postgres,postman,git,github,gitlab)](https://skillicons.dev)
+
+</div>
+
+## 📊 GitHub Stats
+
+<div align="center">
+  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=duy99uit&layout=compact&theme=radical)
+
+</div>
+
+---
+## 📫 Contact me
+
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/ntminhthu/)
+[![Email](https://skillicons.dev/icons?i=gmail)](mailto:mintu.ngth@gmail.com)
