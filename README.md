@@ -1,5 +1,3 @@
-#mitu
-
 ![](https://komarev.com/ghpvc/?username=MinhThu100200)
 
 <div align="center">
